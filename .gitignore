@@ -1,5 +1,7 @@
 cython_debug/
 
-model/llama-2-7b.ggmlv3.q4_0.bin
+model/llama-2-7b-chat.ggmlv3.q4_0.bin
 
 data/
+
+__pycache__
